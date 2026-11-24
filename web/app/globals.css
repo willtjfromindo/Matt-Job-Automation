@@ -1,0 +1,133 @@
+:root {
+  color-scheme: light;
+
+  --bg: #f5f6f8;
+  --glow: rgba(39, 116, 174, 0.1);
+  --surface: #ffffff;
+  --surface-2: #f2f4f7;
+  --surface-3: #e9ecf1;
+  --border: #e4e7ec;
+  --border-strong: #d0d5dd;
+  --text: #101828;
+  --text-2: #475467;
+  --muted: #667085;
+
+  /* The one accent: UCLA blue. White text on it is ~5:1. */
+  --accent: #2774ae;
+  --accent-hover: #1f6399;
+  --accent-press: #1a5585;
+  --on-accent: #ffffff;
+  --accent-soft: rgba(39, 116, 174, 0.1);
+  --ring: rgba(39, 116, 174, 0.35);
+
+  --danger: #b42318;
+  --danger-soft: #fef3f2;
+  --danger-border: #fecdca;
+
+  --shadow-card: 0 1px 2px rgba(16, 24, 40, 0.04), 0 16px 40px -16px rgba(16, 24, 40, 0.14);
+  --shadow-button: 0 1px 2px rgba(16, 24, 40, 0.08);
+
+  --radius-card: 22px;
+  --radius-control: 14px;
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+
+    --bg: #0b0e13;
+    --glow: rgba(109, 179, 236, 0.08);
+    --surface: #141922;
+    --surface-2: #1b212c;
+    --surface-3: #232a37;
+    --border: #252d3a;
+    --border-strong: #344054;
+    --text: #eef1f5;
+    --text-2: #b4bcc8;
+    --muted: #8d96a3;
+
+    --accent: #6db3ec;
+    --accent-hover: #86c1f0;
+    --accent-press: #5aa5e2;
+    --on-accent: #08223a;
+    --accent-soft: rgba(109, 179, 236, 0.14);
+    --ring: rgba(109, 179, 236, 0.4);
+
+    --danger: #fda29b;
+    --danger-soft: rgba(240, 68, 56, 0.1);
+    --danger-border: rgba(240, 68, 56, 0.3);
+
+    --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.3), 0 24px 48px -20px rgba(0, 0, 0, 0.6);
+    --shadow-button: 0 1px 2px rgba(0, 0, 0, 0.4);
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  min-height: 100%;
+  min-height: 100dvh;
+  overflow-x: hidden;
+  background-color: var(--bg);
+  background-image: radial-gradient(1100px 520px at 50% -12%, var(--glow), transparent 70%);
+  background-repeat: no-repeat;
+  color: var(--text);
+  font-family: var(--font-sans), ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  font-feature-settings: "cv11", "ss01";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button,
+input {
+  font: inherit;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

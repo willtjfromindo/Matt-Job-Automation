@@ -1,0 +1,7 @@
+Hi {first_name},
+
+I wanted to follow up on my note below in case it got buried. I'd love to hear about your path to {firm} if you have 15 minutes in the coming weeks.
+
+Best regards,
+{sender_name}
+{sender_tagline}

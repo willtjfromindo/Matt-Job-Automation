@@ -1,0 +1,174 @@
+name,career_paths,per_office,rank_source,domain
+Goldman Sachs,IB|PE,true,IB league table 2025 #1 (LSEG US M&A); PEI 300 2026 #10 (Goldman Sachs Asset Management),gs.com
+JPMorgan,IB,true,IB league table 2025 #2 (LSEG US M&A),jpmorgan.com
+Morgan Stanley,IB,true,IB league table 2025 #3 (LSEG US M&A),morganstanley.com
+Bank of America,IB,true,IB league table 2025 #4 (LSEG US M&A),bofa.com
+Citi,IB,true,IB league table 2025 #5 (LSEG US M&A),citi.com
+Evercore,IB,true,IB league table 2025 #6 (LSEG US M&A),evercore.com
+Wells Fargo,IB,true,IB league table 2025 #7 (LSEG US M&A),wellsfargo.com
+Centerview Partners,IB,true,IB league table 2025 #8 (LSEG US M&A),centerview.com
+Barclays,IB,true,IB league table 2025 #9 (LSEG US M&A),barclays.com
+Jefferies,IB,true,IB league table 2025 #10 (LSEG US M&A),jefferies.com
+Moelis & Company,IB,true,IB league table 2025 #11 (LSEG US M&A),moelis.com
+UBS,IB,true,IB league table 2025 #12 (LSEG US M&A),ubs.com
+Allen & Company,IB,true,IB league table 2025 #13 (LSEG US M&A),allenco.com
+Lazard,IB,true,IB league table 2025 #14 (LSEG US M&A),lazard.com
+RBC Capital Markets,IB,true,IB league table 2025 #15 (LSEG US M&A),rbccm.com
+PJT Partners,IB,true,IB league table 2025 #16 (LSEG US M&A),pjtpartners.com
+Deutsche Bank,IB,true,IB league table 2025 #17 (LSEG US M&A),db.com
+M. Klein and Company,IB,true,IB league table 2025 #18 (LSEG US M&A),mkleinandcompany.com
+Mizuho,IB,true,IB league table 2025 #19 (LSEG US M&A),mizuhogroup.com
+Guggenheim Securities,IB,true,IB league table 2025 #20 (LSEG US M&A),guggenheimpartners.com
+BMO Capital Markets,IB,true,IB league table 2025 #21 (LSEG US M&A),bmo.com
+Rothschild & Co,IB,true,IB league table 2025 #22 (LSEG US M&A),rothschildandco.com
+TD Securities,IB,true,IB league table 2025 #23 (LSEG US M&A),tdsecurities.com
+Perella Weinberg Partners,IB,true,IB league table 2025 #24 (LSEG US M&A),pwpartners.com
+Qatalyst Partners,IB,true,IB league table 2025 #25 (LSEG US M&A),qatalyst.com
+KKR,PE,true,PEI 300 2026 #1,kkr.com
+EQT,PE,true,PEI 300 2026 #2,eqtpartners.com
+Blackstone,PE,true,PEI 300 2026 #3,blackstone.com
+TPG,PE,true,PEI 300 2026 #4,tpg.com
+Thoma Bravo,PE,true,PEI 300 2026 #5,thomabravo.com
+Hg,PE,false,PEI 300 2026 #6,hgcapital.com
+Bain Capital,PE,true,PEI 300 2026 #7,baincapital.com
+General Atlantic,PE,true,PEI 300 2026 #8,generalatlantic.com
+Advent International,PE,true,PEI 300 2026 #9,adventinternational.com
+"Clayton, Dubilier & Rice",PE,false,PEI 300 2026 #11,cdr-inc.com
+CVC Capital Partners,PE,false,PEI 300 2026 #12,cvc.com
+Hellman & Friedman,PE,true,PEI 300 2026 #13,hf.com
+Warburg Pincus,PE,true,PEI 300 2026 #14,warburgpincus.com
+Clearlake Capital Group,PE,false,PEI 300 2026 #15,clearlake.com
+Andreessen Horowitz,PE|VC,false,"PEI 300 2026 #16; VC AUM #1 (SEC Form ADV, $106.5B)",a16z.com
+Insight Partners,PE|VC,false,"PEI 300 2026 #17; VC AUM #3 (SEC Form ADV, $92.2B)",insightpartners.com
+HarbourVest Partners,PE,false,PEI 300 2026 #19,harbourvest.com
+Vista Equity Partners,PE,true,PEI 300 2026 #20,vistaequitypartners.com
+Veritas Capital,PE,false,PEI 300 2026 #21,veritascapital.com
+The Carlyle Group,PE,true,PEI 300 2026 #22,carlyle.com
+Apollo Global Management,PE,true,PEI 300 2026 #23,apollo.com
+TA Associates,PE,false,PEI 300 2026 #24,ta.com
+Stone Point Capital,PE,false,PEI 300 2026 #25,stonepoint.com
+Neuberger Berman,PE,false,PEI 300 2026 #26 (Neuberger Berman Private Markets),nb.com
+Blue Owl Capital,PE,true,PEI 300 2026 #27,blueowl.com
+Silver Lake,PE,true,PEI 300 2026 #28,silverlake.com
+Partners Group,PE,false,PEI 300 2026 #29,partnersgroup.com
+Sequoia Capital,PE|VC,false,"PEI 300 2026 #30; VC AUM #4 (SEC Form ADV, $82.2B)",sequoiacap.com
+GTCR,PE,false,PEI 300 2025 #24,gtcr.com
+Bridgepoint,PE,false,PEI 300 2025 #26,bridgepointgroup.com
+New Mountain Capital,PE,false,PEI 300 2025 #27,newmountaincapital.com
+Cinven,PE,false,PEI 300 2025 #29,cinven.com
+Apax Partners,PE,false,PEI 300 2025 #30,apax.com
+Nordic Capital,PE,false,PEI 300 2025 #32,nordiccapital.com
+Francisco Partners,PE,false,PEI 300 2025 #34,franciscopartners.com
+Tiger Global Management,PE|VC,false,"PEI 300 2025 #35; VC AUM #5 (SEC Form ADV, $78.0B)",tigerglobal.com
+Brookfield Asset Management,PE,false,PEI 300 2025 #37,brookfield.com
+Genstar Capital,PE,false,PEI 300 2025 #38,gencap.com
+Permira,PE,false,PEI 300 2025 #39,permira.com
+BDT & MSD Partners,PE,false,PEI 300 2025 #40,bdtmsd.com
+Summit Partners,PE,false,PEI 300 2025 #41,summitpartners.com
+Ardian,PE,false,PEI 300 2025 #42,ardian.com
+Platinum Equity,PE,false,PEI 300 2025 #43,platinumequity.com
+Hillhouse Investment,PE,false,PEI 300 2025 #45,hillhouseinvestment.com
+PSG,PE,false,PEI 300 2025 #46,psgequity.com
+L Catterton,PE,false,PEI 300 2025 #47,lcatterton.com
+TJC,PE,false,PEI 300 2025 #49,tjclp.com
+ICONIQ Capital,PE|VC,false,"PEI 300 2025 #50; VC AUM #15 (SEC Form ADV, $31.1B)",iconiqcapital.com
+Great Hill Partners,PE,false,"PEI 300 2026 top 75 (firm-reported, exact rank not public)",greathillpartners.com
+Triton Partners,PE,false,"PEI 300 2026 top 100 (firm-reported, exact rank not public)",triton-partners.com
+Investindustrial,PE,false,PEI 300 2026 #102,investindustrial.com
+Ridgemont Equity Partners,PE,false,PEI 300 2026 #119,ridgemontep.com
+CBC Group,PE,false,PEI 300 2026 #122,cbridgecap.com
+Coatue Management,VC,false,"VC AUM #2 (SEC Form ADV, $92.7B)",coatue.com
+Valor Equity Partners,VC,false,"VC AUM #6 (SEC Form ADV, $59.3B)",valorep.com
+Founders Fund,VC,false,"VC AUM #7 (SEC Form ADV, $58.9B)",foundersfund.com
+SoftBank Vision Fund,VC,false,"VC AUM #8 (SEC Form ADV, $53.5B)",visionfund.com
+Thrive Capital,VC,false,"VC AUM #9 (SEC Form ADV, $50.5B)",thrivecap.com
+Lightspeed Venture Partners,VC,false,"VC AUM #10 (SEC Form ADV, $50.0B)",lsvp.com
+Accel,VC,false,"VC AUM #11 (SEC Form ADV, $46.8B)",accel.com
+General Catalyst,VC,false,"VC AUM #12 (SEC Form ADV, $45.5B)",generalcatalyst.com
+Dragoneer Investment Group,VC,false,"VC AUM #13 (SEC Form ADV, $37.0B)",dragoneer.com
+New Enterprise Associates,VC,false,"VC AUM #14 (SEC Form ADV, $35.6B)",nea.com
+Vy Capital,VC,false,"VC AUM #16 (SEC Form ADV, $25.8B)",vycapital.com
+Index Ventures,VC,false,"VC AUM #17 (SEC Form ADV, $25.3B)",indexventures.com
+DST Global,VC,false,"VC AUM #18 (SEC Form ADV, $24.9B)",dst-global.com
+TCV,VC,false,"VC AUM #19 (SEC Form ADV, $22.5B)",tcv.com
+Y Combinator,VC,false,"VC AUM #20 (SEC Form ADV, $22.0B)",ycombinator.com
+Khosla Ventures,VC,false,"VC AUM #21 (SEC Form ADV, $21.7B)",khoslaventures.com
+Ribbit Capital,VC,false,"VC AUM #22 (SEC Form ADV, $20.8B)",ribbitcap.com
+Kleiner Perkins,VC,false,"VC AUM #23 (SEC Form ADV, $20.7B)",kleinerperkins.com
+OrbiMed,VC,false,"VC AUM #24 (SEC Form ADV, $20.6B)",orbimed.com
+Bessemer Venture Partners,VC,false,"VC AUM #25 (SEC Form ADV, $20.2B)",bvp.com
+Deerfield Management,VC,false,"VC AUM #26 (SEC Form ADV, $19.1B)",deerfield.com
+Altimeter Capital,VC,false,"VC AUM #27 (SEC Form ADV, $18.8B)",altimeter.com
+Greenoaks,VC,false,"VC AUM #28 (SEC Form ADV, $18.3B)",
+RA Capital Management,VC,false,"VC AUM #29 (SEC Form ADV, $16.4B)",racap.com
+DFJ Growth,VC,false,"VC AUM #30 (SEC Form ADV, $16.3B)",
+Battery Ventures,VC,false,"VC AUM #31 (SEC Form ADV, $15.6B)",battery.com
+Spark Capital,VC,false,"VC AUM #32 (SEC Form ADV, $15.6B)",sparkcapital.com
+Norwest,VC,false,"VC AUM #33 (Norwest press release, $15.5B)",norwest.com
+Peak XV Partners,VC,false,"VC AUM #34 (SEC Form ADV, $15.3B)",peakxv.com
+Gigafund,VC,false,"VC AUM #35 (SEC Form ADV, $15.0B)",
+Flagship Pioneering,VC,false,"VC AUM #36 (SEC Form ADV, $13.4B)",flagshippioneering.com
+8VC,VC,false,"VC AUM #37 (SEC Form ADV, $13.4B)",8vc.com
+GV,VC,false,"VC AUM #38 (GV website, $13.0B)",gv.com
+Paradigm,VC,false,"VC AUM #39 (SEC Form ADV, $11.9B)",paradigm.xyz
+Menlo Ventures,VC,false,"VC AUM #40 (SEC Form ADV, $11.7B)",menlovc.com
+Lux Capital,VC,false,"VC AUM #41 (SEC Form ADV, $11.2B)",luxcapital.com
+ARCH Venture Partners,VC,false,"VC AUM #42 (SEC Form ADV, $10.6B)",archventure.com
+Greylock,VC,false,"VC AUM #43 (SEC Form ADV, $10.5B)",greylock.com
+Sapphire Ventures,VC,false,"VC AUM #44 (SEC Form ADV, $10.4B)",sapphireventures.com
+Notable Capital,VC,false,"VC AUM #45 (SEC Form ADV, $10.3B)",notablecap.com
+NFDG,VC,false,"VC AUM #46 (SEC Form ADV, $9.9B)",
+Bain Capital Ventures,VC,false,"VC AUM #47 (SEC Form ADV, $9.8B)",baincapitalventures.com
+IVP,VC,false,"VC AUM #48 (SEC Form ADV, $9.8B)",ivp.com
+Oak HC/FT,VC,false,"VC AUM #49 (SEC Form ADV, $9.7B)",oakhcft.com
+Qiming Venture Partners,VC,false,"VC AUM #50 (SEC Form ADV, $9.6B)",qimingvc.com
+Addition,VC,false,"VC AUM #51 (SEC Form ADV, $9.2B)",addition.com
+Venrock,VC,false,"VC AUM #52 (SEC Form ADV, $9.0B)",venrock.com
+B Capital,VC,false,"VC AUM #53 (SEC Form ADV, $8.2B)",
+BOND,VC,false,"VC AUM #54 (SEC Form ADV, $8.0B)",bondcap.com
+CRV,VC,false,"VC AUM #55 (SEC Form ADV, $8.0B)",crv.com
+Redpoint Ventures,VC,false,"VC AUM #56 (SEC Form ADV, $8.0B)",redpoint.com
+Benchmark,VC,false,"VC AUM #57 (SEC Form ADV, $7.6B)",benchmark.com
+Eclipse,VC,false,"VC AUM #58 (SEC Form ADV, $7.4B)",
+Frazier Life Sciences,VC,false,"VC AUM #59 (SEC Form ADV, $7.0B)",
+Forbion,VC,false,"VC AUM #60 (SEC Form ADV, $6.9B)",forbion.com
+Felicis,VC,false,"VC AUM #61 (SEC Form ADV, $6.7B)",felicis.com
+Craft Ventures,VC,false,"VC AUM #62 (SEC Form ADV, $6.7B)",craftventures.com
+Matrix,VC,false,"VC AUM #63 (SEC Form ADV, $6.6B)",matrix.vc
+Bain Capital Life Sciences,VC,false,"VC AUM #64 (SEC Form ADV, $6.4B)",baincapitallifesciences.com
+Amplify Partners,VC,false,"VC AUM #65 (SEC Form ADV, $6.3B)",amplifypartners.com
+Vivo Capital,VC,false,"VC AUM #66 (SEC Form ADV, $6.1B)",vivocapital.com
+Breakthrough Energy Ventures,VC,false,"VC AUM #67 (SEC Form ADV, $5.8B)",breakthroughenergy.org
+Canaan Partners,VC,false,"VC AUM #68 (SEC Form ADV, $5.5B)",canaan.com
+Altos Ventures,VC,false,"VC AUM #69 (SEC Form ADV, $5.5B)",altos.vc
+Goodwater Capital,VC,false,"VC AUM #70 (SEC Form ADV, $5.4B)",goodwatercap.com
+Sofinnova Investments,VC,false,"VC AUM #71 (SEC Form ADV, $5.4B)",sofinnovainvestments.com
+TCG Crossover,VC,false,"VC AUM #72 (SEC Form ADV, $5.1B)",
+FirstMark Capital,VC,false,"VC AUM #73 (SEC Form ADV, $5.0B)",firstmark.com
+Atlas Venture,VC,false,"VC AUM #74 (SEC Form ADV, $5.0B)",atlasventure.com
+DCVC,VC,false,"VC AUM #75 (SEC Form ADV, $4.9B)",dcvc.com
+Energy Impact Partners,VC,false,"VC AUM #76 (SEC Form ADV, $4.9B)",energyimpactpartners.com
+F-Prime Capital,VC,false,"VC AUM #77 (SEC Form ADV, $4.8B)",fprimecapital.com
+Foundation Capital,VC,false,"VC AUM #78 (SEC Form ADV, $4.8B)",foundationcap.com
+Meritech Capital,VC,false,"VC AUM #79 (SEC Form ADV, $4.6B)",meritechcapital.com
+SignalFire,VC,false,"VC AUM #80 (SEC Form ADV, $4.5B)",signalfire.com
+Greycroft,VC,false,"VC AUM #81 (SEC Form ADV, $4.5B)",greycroft.com
+Mayfield,VC,false,"VC AUM #82 (SEC Form ADV, $4.3B)",mayfield.com
+Madrona Venture Group,VC,false,"VC AUM #83 (SEC Form ADV, $4.3B)",madrona.com
+Forerunner Ventures,VC,false,"VC AUM #84 (SEC Form ADV, $4.2B)",forerunnerventures.com
+Polaris Partners,VC,false,"VC AUM #85 (SEC Form ADV, $4.2B)",polarispartners.com
+Valar Ventures,VC,false,"VC AUM #86 (SEC Form ADV, $4.1B)",
+Pantera Capital,VC,false,"VC AUM #87 (SEC Form ADV, $4.0B)",panteracapital.com
+Glade Brook Capital,VC,false,"VC AUM #88 (SEC Form ADV, $4.0B)",
+Crosslink Capital,VC,false,"VC AUM #89 (SEC Form ADV, $3.9B)",crosslinkcapital.com
+Versant Ventures,VC,false,"VC AUM #90 (SEC Form ADV, $3.9B)",versantventures.com
+True Ventures,VC,false,"VC AUM #91 (SEC Form ADV, $3.9B)",trueventures.com
+Emergence Capital,VC,false,"VC AUM #92 (SEC Form ADV, $3.8B)",emcap.com
+Sutter Hill Ventures,VC,false,"VC AUM #93 (SEC Form ADV, $3.7B)",shv.com
+MPM BioImpact,VC,false,"VC AUM #94 (SEC Form ADV, $3.6B)",
+Apple Tree Partners,VC,false,"VC AUM #95 (SEC Form ADV, $3.5B)",
+Foundry Group,VC,false,"VC AUM #96 (SEC Form ADV, $3.5B)",foundrygroup.com
+Tribe Capital,VC,false,"VC AUM #97 (SEC Form ADV, $3.4B)",
+Dragonfly,VC,false,"VC AUM #98 (SEC Form ADV, $3.4B)",dragonfly.xyz
+Upfront Ventures,VC,false,"VC AUM #99 (SEC Form ADV, $3.4B)",upfront.com
+QED Investors,VC,false,"VC AUM #100 (SEC Form ADV, $3.3B)",qedinvestors.com

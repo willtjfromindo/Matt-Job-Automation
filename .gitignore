@@ -1,0 +1,28 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+.vercel/
+.next/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+outbox/
+data/imports/
+data/sender_profile.json
+data/resume*
+!.env.example
+client_secret*.json
+
+# Email previews with real people's details
+EMAIL_SAMPLES.md
+ALL_EMAILS.md
+
+# Private notes and anything naming real contacts
+CONTACT_CHECK.md
+CONTACT_SOURCES.md
+MORE_CONTACTS.md
+GOOGLE_SETUP.md
+reports/
+research_notes/

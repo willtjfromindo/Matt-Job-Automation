@@ -1,0 +1,7 @@
+Hi {first_name},
+
+Following up one last time. I know your schedule is busy, so no worries if now isn't a good time. If you're open to a quick 15-minute call, I'd really appreciate it.
+
+Best regards,
+{sender_name}
+{sender_tagline}

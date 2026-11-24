@@ -1,0 +1,11 @@
+Subject: {sender_school} Student Interested in Your Path to {firm}
+---
+Hi {first_name},
+
+{sender_intro} {personal_line}
+
+I'd be grateful for 15 minutes to hear about your career and how you developed your perspective on private equity investing. I've attached my resume for context.
+
+Best regards,
+{sender_name}
+{sender_tagline}
